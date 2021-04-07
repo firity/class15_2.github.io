@@ -19,4 +19,4 @@ __________________
 | Katia | 
 
 
-![Hi](<img src="https://i.gifer.com/61kY.gif" width="40" height="40"/>)
+![](<img src="https://i.gifer.com/61kY.gif" width="40" height="40"/>)
