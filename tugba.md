@@ -13,7 +13,7 @@
 
 **I`m interesting in:** Coding, Technology, Nature, World Cuisine
 
-## In case of any questions please contact me
+## How to reach me
 
 💻 [LinkedIn](https://www.linkedin.com/in/)
   
